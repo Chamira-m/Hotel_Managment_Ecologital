@@ -23,8 +23,8 @@
 1. Clone the Repository
    bash
    Copy code
-   git clone <repository_url>
-   cd ecologital_hotel_managment
+   git clone https://github.com/Chamira-m/Hotel_Managment_Ecologital.git
+   cd Hotel_Managment_Ecologital
 
 2. Install Dependencies
    Using npm: npm install
